@@ -1,0 +1,24 @@
+html, body {
+    background-color: #81BD5B;
+    height: 100%;
+    margin: 0;
+}
+
+div {
+    display: table;
+    width: 100%;
+    overflow: hidden;
+    min-height: 100%;
+}
+
+a {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    font-size: 3.5em;
+    display: table-cell;
+    color: white;
+    vertical-align: middle;
+    margin: 0;
+    text-decoration: none;
+    border: 0;
+}
